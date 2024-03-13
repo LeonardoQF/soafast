@@ -1,0 +1,4 @@
+08280280 : {'cep': '08280-280', 'logradouro': 'Rua Antão Leme da Silva', 'complemento': '', 'bairro': 'Cidade Líder', 'localidade': 'São Paulo', 'uf': 'SP', 'ibge': '3550308', 'gia': '1004', 'ddd': '11', 'siafi': '7107'}
+08280250 : {'cep': '08280-250', 'logradouro': 'Rua Elói Porteli', 'complemento': '', 'bairro': 'Cidade Líder', 'localidade': 'São Paulo', 'uf': 'SP', 'ibge': '3550308', 'gia': '1004', 'ddd': '11', 'siafi': '7107'}
+08280240 : {'cep': '08280-240', 'logradouro': 'Praça Senabria', 'complemento': '', 'bairro': 'Jardim Nossa Senhora do Carmo', 'localidade': 'São Paulo', 'uf': 'SP', 'ibge': '3550308', 'gia': '1004', 'ddd': '11', 'siafi': '7107'}
+08240240 : {'cep': '08240-240', 'logradouro': 'Rua Calabura', 'complemento': '', 'bairro': 'Jardim Norma', 'localidade': 'São Paulo', 'uf': 'SP', 'ibge': '3550308', 'gia': '1004', 'ddd': '11', 'siafi': '7107'}
